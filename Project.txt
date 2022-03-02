@@ -1,0 +1,9 @@
+# Cleaning_the_Clutter-python-
+In this busy schedule we require multiple files at the same time but we find it difficult to sort them according to their types, folders, extenstions. 
+So i Created an automated folder cleaner in python.
+
+In this project i have used a functions to create a folder if not present in the directory
+then i have also created a function to move the files into folder
+
+Then i have assigned multiple variables and values such as file extentions for filtering purpose.
+ So its a mini personal project build in python ;)
